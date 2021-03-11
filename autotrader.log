@@ -1,0 +1,1129 @@
+2021-03-11 21:58:15,342 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 21:58:15,342 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 21:58:15,346 [INFO   ] [CONNECTION] fd=612 connection established: peer=127.0.0.1:12345
+2021-03-11 21:58:40,968 [INFO   ] [APP] closing event loop
+2021-03-11 22:36:26,260 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 22:36:26,260 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 22:36:26,262 [INFO   ] [CONNECTION] fd=996 connection established: peer=127.0.0.1:12345
+2021-03-11 23:05:11,511 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:05:11,511 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:05:11,515 [INFO   ] [CONNECTION] fd=916 connection established: peer=127.0.0.1:12345
+2021-03-11 23:26:19,967 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:26:19,967 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:26:19,972 [INFO   ] [CONNECTION] fd=720 connection established: peer=127.0.0.1:12345
+2021-03-11 23:27:44,768 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:27:44,769 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:27:44,773 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:12345
+2021-03-11 23:28:10,156 [INFO   ] [APP] closing event loop
+2021-03-11 23:28:30,837 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:28:30,837 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:28:30,837 [INFO   ] [CONNECTION] fd=948 connection established: peer=127.0.0.1:12345
+2021-03-11 23:29:19,469 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:29:19,469 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:29:19,473 [INFO   ] [CONNECTION] fd=796 connection established: peer=127.0.0.1:12345
+2021-03-11 23:32:59,685 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:32:59,685 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:32:59,689 [INFO   ] [CONNECTION] fd=392 connection established: peer=127.0.0.1:12345
+2021-03-11 23:35:24,518 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:35:24,518 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:35:24,521 [INFO   ] [CONNECTION] fd=792 connection established: peer=127.0.0.1:12345
+2021-03-11 23:36:42,375 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:36:42,375 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:36:42,378 [INFO   ] [CONNECTION] fd=344 connection established: peer=127.0.0.1:12345
+2021-03-11 23:37:20,503 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:37:20,503 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:37:20,506 [INFO   ] [CONNECTION] fd=888 connection established: peer=127.0.0.1:12345
+2021-03-11 23:47:21,210 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:47:21,210 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:47:21,211 [INFO   ] [CONNECTION] fd=508 connection established: peer=127.0.0.1:12345
+2021-03-11 23:53:04,744 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:53:04,744 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:53:04,748 [INFO   ] [CONNECTION] fd=960 connection established: peer=127.0.0.1:12345
+2021-03-11 23:57:58,236 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:57:58,236 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-11 23:57:58,240 [INFO   ] [CONNECTION] fd=564 connection established: peer=127.0.0.1:12345
+2021-03-11 23:58:03,003 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 91, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:01:58,765 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:01:58,765 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:01:58,768 [INFO   ] [CONNECTION] fd=540 connection established: peer=127.0.0.1:12345
+2021-03-12 00:02:03,551 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 98, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:03:54,665 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:03:54,665 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:03:54,669 [INFO   ] [CONNECTION] fd=720 connection established: peer=127.0.0.1:12345
+2021-03-12 00:03:59,451 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 95, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:03:59,721 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:03:59,960 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:00,212 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:00,475 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:00,710 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:00,974 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:01,221 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:01,469 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:01,717 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:01,952 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:02,203 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:02,463 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:02,727 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:02,974 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:03,223 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:03,473 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:03,708 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:03,958 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:04,223 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:04,470 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:04,718 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:04,954 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:05,217 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:05,465 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:05,717 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:05,965 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:06,215 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:06,480 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:06,727 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:06,976 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:07,223 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:07,472 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:07,719 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:07,965 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:08,224 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:08,471 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:08,716 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:08,965 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:09,228 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:09,476 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:09,710 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:09,971 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:10,220 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:10,464 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:10,724 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:10,972 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:11,220 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:11,468 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:11,711 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:11,969 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:12,211 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:12,474 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:12,722 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:12,970 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:13,218 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:13,467 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:13,717 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:13,966 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:14,228 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:14,477 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:14,725 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:14,959 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:15,211 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:15,476 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:15,722 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:15,958 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:04:16,223 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 113, in on_order_book_update_message
+    if (self.price_history[-2] < current_price and current_price >= current_moving_avg and len(self.price_history) > self.day_moving_average) or rand_buy:
+UnboundLocalError: local variable 'rand_buy' referenced before assignment
+2021-03-12 00:05:17,138 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:05:17,138 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:05:17,142 [INFO   ] [CONNECTION] fd=452 connection established: peer=127.0.0.1:12345
+2021-03-12 00:05:21,911 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 101, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:06:21,058 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:06:21,058 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:06:21,061 [INFO   ] [CONNECTION] fd=916 connection established: peer=127.0.0.1:12345
+2021-03-12 00:06:25,836 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 101, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:07:19,578 [INFO   ] [APP] closing event loop
+2021-03-12 00:07:51,233 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:07:51,233 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:07:51,237 [INFO   ] [CONNECTION] fd=556 connection established: peer=127.0.0.1:12345
+2021-03-12 00:07:56,004 [ERROR  ] [asyncio] Exception in callback _SelectorDatagramTransport._read_ready()
+handle: <Handle _SelectorDatagramTransport._read_ready()>
+Traceback (most recent call last):
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\events.py", line 81, in _run
+    self._context.run(self._callback, *self._args)
+  File "C:\Users\Ayden\AppData\Local\Programs\Python\Python38\lib\asyncio\selector_events.py", line 1019, in _read_ready
+    self._protocol.datagram_received(data, addr)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\messages.py", line 194, in datagram_received
+    self.on_datagram(typ, data, HEADER_SIZE, length)
+  File "C:\Users\Ayden\dev\ReadyTraderOne\ready_trader_one\base_auto_trader.py", line 63, in on_datagram
+    self.on_order_book_update_message(inst, seq, *BOOK_PART.iter_unpack(data[ORDER_BOOK_HEADER_SIZE:]))
+  File "C:\Users\Ayden\dev\ReadyTraderOne\autotrader.py", line 99, in on_order_book_update_message
+    if self.price_history[-2] < current_price and current_price >= current_moving_avg:
+IndexError: list index out of range
+2021-03-12 00:12:11,587 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:12:11,587 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:12:11,591 [INFO   ] [CONNECTION] fd=888 connection established: peer=127.0.0.1:12345
+2021-03-12 00:14:47,650 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:14:47,650 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:15:00,367 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:15:00,367 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:15:00,371 [INFO   ] [CONNECTION] fd=932 connection established: peer=127.0.0.1:12345
+2021-03-12 00:17:00,322 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:17:00,322 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:17:00,326 [INFO   ] [CONNECTION] fd=928 connection established: peer=127.0.0.1:12345
+2021-03-12 00:18:07,032 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:18:07,032 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:18:07,036 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:12345
+2021-03-12 00:19:00,360 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:19:00,360 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:19:00,364 [INFO   ] [CONNECTION] fd=756 connection established: peer=127.0.0.1:12345
+2021-03-12 00:20:08,639 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:20:08,639 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:20:08,643 [INFO   ] [CONNECTION] fd=992 connection established: peer=127.0.0.1:12345
+2021-03-12 00:21:29,986 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:21:29,986 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:21:29,989 [INFO   ] [CONNECTION] fd=984 connection established: peer=127.0.0.1:12345
+2021-03-12 00:22:27,190 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:22:27,190 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:22:27,193 [INFO   ] [CONNECTION] fd=760 connection established: peer=127.0.0.1:12345
+2021-03-12 00:23:39,606 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:23:39,606 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:23:39,610 [INFO   ] [CONNECTION] fd=488 connection established: peer=127.0.0.1:12345
+2021-03-12 00:26:11,085 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:26:11,085 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:26:11,089 [INFO   ] [CONNECTION] fd=816 connection established: peer=127.0.0.1:12345
+2021-03-12 00:29:06,600 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:29:06,600 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:29:06,604 [INFO   ] [CONNECTION] fd=440 connection established: peer=127.0.0.1:12345
+2021-03-12 00:31:37,621 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:31:37,621 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:31:37,624 [INFO   ] [CONNECTION] fd=856 connection established: peer=127.0.0.1:12345
+2021-03-12 00:34:05,616 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:34:05,616 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:34:05,619 [INFO   ] [CONNECTION] fd=900 connection established: peer=127.0.0.1:12345
+2021-03-12 00:35:28,251 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:35:28,251 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:35:50,690 [INFO   ] [APP] autotrader started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:35:50,690 [INFO   ] [APP] configuration={"Execution":{"Host":"127.0.0.1","Port":12345},"Information":{"Interface":"0.0.0.0","ListenAddress":"239.255.1.1","Port":12346},"TeamName":"Example","Secret":"secret"}
+2021-03-12 00:35:50,693 [INFO   ] [CONNECTION] fd=872 connection established: peer=127.0.0.1:12345
+2021-03-12 00:36:24,975 [INFO   ] [APP] closing event loop

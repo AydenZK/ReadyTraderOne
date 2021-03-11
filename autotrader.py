@@ -18,12 +18,15 @@
 import asyncio
 import itertools
 
+import random
+
+
 from typing import List
 
 from ready_trader_one import BaseAutoTrader, Instrument, Lifespan, Side
 
 
-LOT_SIZE = 10
+LOT_SIZE = 20
 POSITION_LIMIT = 1000
 TICK_SIZE_IN_CENTS = 100
 
@@ -45,6 +48,8 @@ class AutoTrader(BaseAutoTrader):
         self.bids = set()
         self.asks = set()
         self.ask_id = self.ask_price = self.bid_id = self.bid_price = self.position = 0
+        self.price_history = []
+        self.day_moving_average = 10
 
     def on_error_message(self, client_order_id: int, error_message: bytes) -> None:
         """Called when the exchange detects an error.
@@ -64,11 +69,25 @@ class AutoTrader(BaseAutoTrader):
         messages. The five best available ask (i.e. sell) and bid (i.e. buy)
         prices are reported along with the volume available at each of those
         price levels.
-        """
+        """       
+
+        day_moving_average = self.day_moving_average
+
         if instrument == Instrument.FUTURE:
             price_adjustment = - (self.position // LOT_SIZE) * TICK_SIZE_IN_CENTS
             new_bid_price = bid_prices[0] + price_adjustment if bid_prices[0] != 0 else 0
             new_ask_price = ask_prices[0] + price_adjustment if ask_prices[0] != 0 else 0
+            
+            current_price = (new_bid_price + new_ask_price) / 2
+            
+            self.price_history.append(current_price)
+
+            # Setting the moving avg
+            if len(self.price_history) > day_moving_average:
+                current_moving_avg = sum(self.price_history[-day_moving_average-1:]) / len(self.price_history[-day_moving_average-1:])
+
+            else:
+                current_moving_avg = sum(self.price_history) / len(self.price_history)
 
             if self.bid_id != 0 and new_bid_price not in (self.bid_price, 0):
                 self.send_cancel_order(self.bid_id)
@@ -77,17 +96,28 @@ class AutoTrader(BaseAutoTrader):
                 self.send_cancel_order(self.ask_id)
                 self.ask_id = 0
 
+            # rnum = random.uniform(0, 1)
+            # if rnum < 0.05 and new_bid_price and anew_bid_price <= sum(self.price_history[-10:]):
+            #     rand_buy = True
+            # else:
+            #     rand_buy = False
+
+            # if len(self.price_history) % 3 == 0: print(current_moving_avg) 
+
             if self.bid_id == 0 and new_bid_price != 0 and self.position < POSITION_LIMIT:
-                self.bid_id = next(self.order_ids)
-                self.bid_price = new_bid_price
-                self.send_insert_order(self.bid_id, Side.BUY, new_bid_price, LOT_SIZE, Lifespan.GOOD_FOR_DAY)
-                self.bids.add(self.bid_id)
+                if (self.price_history[-2]) < new_bid_price and new_bid_price >= (current_moving_avg):
+                    self.bid_id = next(self.order_ids)
+                    self.bid_price = new_bid_price
+                    self.send_insert_order(self.bid_id, Side.BUY, new_bid_price, LOT_SIZE, Lifespan.GOOD_FOR_DAY)
+                    self.bids.add(self.bid_id)
+                    
 
             if self.ask_id == 0 and new_ask_price != 0 and self.position > -POSITION_LIMIT:
-                self.ask_id = next(self.order_ids)
-                self.ask_price = new_ask_price
-                self.send_insert_order(self.ask_id, Side.SELL, new_ask_price, LOT_SIZE, Lifespan.GOOD_FOR_DAY)
-                self.asks.add(self.ask_id)
+                if self.price_history[-2] > new_ask_price and new_ask_price <= current_moving_avg:
+                    self.ask_id = next(self.order_ids)
+                    self.ask_price = new_ask_price
+                    self.send_insert_order(self.ask_id, Side.SELL, new_ask_price, LOT_SIZE, Lifespan.GOOD_FOR_DAY)
+                    self.asks.add(self.ask_id)
 
     def on_order_filled_message(self, client_order_id: int, price: int, volume: int) -> None:
         """Called when when of your orders is filled, partially or fully.

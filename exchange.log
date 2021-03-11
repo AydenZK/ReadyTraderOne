@@ -1,0 +1,382 @@
+2021-03-11 21:58:14,942 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 21:58:14,942 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 21:58:14,943 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 21:58:14,943 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 21:58:14,944 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 21:58:14,944 [INFO   ] [INFORMATION] fd=388 information channel established
+2021-03-11 21:58:14,944 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 21:58:15,346 [INFO   ] [CONNECTION] fd=604 connection established: peer=127.0.0.1:1600
+2021-03-11 21:58:15,346 [INFO   ] [EXECUTION] fd=604 'Example' is ready!
+2021-03-11 21:58:19,965 [INFO   ] [CONTROLLER] market open
+2021-03-11 21:58:40,968 [INFO   ] [APP] closing event loop
+2021-03-11 22:36:26,014 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 22:36:26,014 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 22:36:26,014 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 22:36:26,015 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 22:36:26,015 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 22:36:26,015 [INFO   ] [INFORMATION] fd=840 information channel established
+2021-03-11 22:36:26,015 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 22:36:26,262 [INFO   ] [CONNECTION] fd=984 connection established: peer=127.0.0.1:3145
+2021-03-11 22:36:26,262 [INFO   ] [EXECUTION] fd=984 'Example' is ready!
+2021-03-11 22:36:27,826 [INFO   ] [CONNECTION] fd=996 connection established: peer=127.0.0.1:3147
+2021-03-11 22:36:31,030 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:05:11,370 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:05:11,370 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:05:11,371 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:05:11,371 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:05:11,371 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:05:11,371 [INFO   ] [INFORMATION] fd=784 information channel established
+2021-03-11 23:05:11,372 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:05:11,516 [INFO   ] [CONNECTION] fd=832 connection established: peer=127.0.0.1:3621
+2021-03-11 23:05:11,516 [INFO   ] [EXECUTION] fd=832 'Example' is ready!
+2021-03-11 23:05:12,974 [INFO   ] [CONNECTION] fd=984 connection established: peer=127.0.0.1:3623
+2021-03-11 23:05:16,385 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:26:19,809 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:26:19,810 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:26:19,810 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:26:19,810 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:26:19,811 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:26:19,811 [INFO   ] [INFORMATION] fd=560 information channel established
+2021-03-11 23:26:19,811 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:26:19,972 [INFO   ] [CONNECTION] fd=996 connection established: peer=127.0.0.1:3904
+2021-03-11 23:26:19,972 [INFO   ] [EXECUTION] fd=996 'Example' is ready!
+2021-03-11 23:26:21,363 [INFO   ] [CONNECTION] fd=412 connection established: peer=127.0.0.1:3906
+2021-03-11 23:26:24,829 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:27:44,620 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:27:44,620 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:27:44,620 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:27:44,620 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:27:44,620 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:27:44,621 [INFO   ] [INFORMATION] fd=948 information channel established
+2021-03-11 23:27:44,621 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:27:44,773 [INFO   ] [CONNECTION] fd=976 connection established: peer=127.0.0.1:3923
+2021-03-11 23:27:44,773 [INFO   ] [EXECUTION] fd=976 'Example' is ready!
+2021-03-11 23:27:46,181 [INFO   ] [CONNECTION] fd=1020 connection established: peer=127.0.0.1:3925
+2021-03-11 23:27:49,641 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:28:10,156 [INFO   ] [APP] closing event loop
+2021-03-11 23:28:30,589 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:28:30,590 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:28:30,590 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:28:30,590 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:28:30,590 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:28:30,590 [INFO   ] [INFORMATION] fd=332 information channel established
+2021-03-11 23:28:30,591 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:28:30,837 [INFO   ] [CONNECTION] fd=948 connection established: peer=127.0.0.1:3934
+2021-03-11 23:28:30,837 [INFO   ] [EXECUTION] fd=948 'Example' is ready!
+2021-03-11 23:28:32,174 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:3935
+2021-03-11 23:28:35,596 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:29:19,228 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:29:19,229 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:29:19,229 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:29:19,229 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:29:19,229 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:29:19,229 [INFO   ] [INFORMATION] fd=384 information channel established
+2021-03-11 23:29:19,230 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:29:19,473 [INFO   ] [CONNECTION] fd=96 connection established: peer=127.0.0.1:3950
+2021-03-11 23:29:19,473 [INFO   ] [EXECUTION] fd=96 'Example' is ready!
+2021-03-11 23:29:20,807 [INFO   ] [CONNECTION] fd=1012 connection established: peer=127.0.0.1:3951
+2021-03-11 23:29:24,252 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:32:59,445 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:32:59,446 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:32:59,446 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:32:59,446 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:32:59,446 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:32:59,446 [INFO   ] [INFORMATION] fd=1016 information channel established
+2021-03-11 23:32:59,447 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:32:59,689 [INFO   ] [CONNECTION] fd=392 connection established: peer=127.0.0.1:4000
+2021-03-11 23:32:59,689 [INFO   ] [EXECUTION] fd=392 'Example' is ready!
+2021-03-11 23:33:01,016 [INFO   ] [CONNECTION] fd=424 connection established: peer=127.0.0.1:4001
+2021-03-11 23:33:04,462 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:35:24,290 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:35:24,291 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:35:24,291 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:35:24,291 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:35:24,291 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:35:24,292 [INFO   ] [INFORMATION] fd=928 information channel established
+2021-03-11 23:35:24,292 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:35:24,521 [INFO   ] [CONNECTION] fd=432 connection established: peer=127.0.0.1:4039
+2021-03-11 23:35:24,522 [INFO   ] [EXECUTION] fd=432 'Example' is ready!
+2021-03-11 23:35:25,880 [INFO   ] [CONNECTION] fd=892 connection established: peer=127.0.0.1:4041
+2021-03-11 23:35:29,311 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:36:42,129 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:36:42,129 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:36:42,130 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:36:42,130 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:36:42,130 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:36:42,130 [INFO   ] [INFORMATION] fd=892 information channel established
+2021-03-11 23:36:42,130 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:36:42,379 [INFO   ] [CONNECTION] fd=964 connection established: peer=127.0.0.1:4061
+2021-03-11 23:36:42,379 [INFO   ] [EXECUTION] fd=964 'Example' is ready!
+2021-03-11 23:36:43,709 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:4062
+2021-03-11 23:36:47,135 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:37:20,267 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:37:20,268 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:37:20,268 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:37:20,268 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:37:20,268 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:37:20,268 [INFO   ] [INFORMATION] fd=428 information channel established
+2021-03-11 23:37:20,269 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:37:20,506 [INFO   ] [CONNECTION] fd=792 connection established: peer=127.0.0.1:4069
+2021-03-11 23:37:20,507 [INFO   ] [EXECUTION] fd=792 'Example' is ready!
+2021-03-11 23:37:21,822 [INFO   ] [CONNECTION] fd=812 connection established: peer=127.0.0.1:4070
+2021-03-11 23:37:25,288 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:47:20,976 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:47:20,976 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:47:20,976 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:47:20,976 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:47:20,976 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:47:20,977 [INFO   ] [INFORMATION] fd=568 information channel established
+2021-03-11 23:47:20,977 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:47:21,211 [INFO   ] [CONNECTION] fd=1008 connection established: peer=127.0.0.1:4233
+2021-03-11 23:47:21,212 [INFO   ] [EXECUTION] fd=1008 'Example' is ready!
+2021-03-11 23:47:22,541 [INFO   ] [CONNECTION] fd=1020 connection established: peer=127.0.0.1:4235
+2021-03-11 23:47:25,997 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:53:04,501 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:53:04,502 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:53:04,502 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:53:04,502 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:53:04,502 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:53:04,502 [INFO   ] [INFORMATION] fd=896 information channel established
+2021-03-11 23:53:04,502 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:53:04,749 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:4325
+2021-03-11 23:53:04,749 [INFO   ] [EXECUTION] fd=968 'Example' is ready!
+2021-03-11 23:53:06,082 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:4326
+2021-03-11 23:53:09,511 [INFO   ] [CONTROLLER] market open
+2021-03-11 23:57:57,991 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-11 23:57:57,991 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-11 23:57:57,992 [INFO   ] [CONTROLLER] starting the match
+2021-03-11 23:57:57,992 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-11 23:57:57,992 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-11 23:57:57,992 [INFO   ] [INFORMATION] fd=900 information channel established
+2021-03-11 23:57:57,992 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-11 23:57:58,240 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:4420
+2021-03-11 23:57:58,240 [INFO   ] [EXECUTION] fd=968 'Example' is ready!
+2021-03-11 23:57:59,578 [INFO   ] [CONNECTION] fd=972 connection established: peer=127.0.0.1:4421
+2021-03-11 23:58:03,002 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:01:58,521 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:01:58,521 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:01:58,522 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:01:58,522 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:01:58,522 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:01:58,522 [INFO   ] [INFORMATION] fd=352 information channel established
+2021-03-12 00:01:58,522 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:01:58,769 [INFO   ] [CONNECTION] fd=540 connection established: peer=127.0.0.1:4493
+2021-03-12 00:01:58,769 [INFO   ] [EXECUTION] fd=540 'Example' is ready!
+2021-03-12 00:02:00,100 [INFO   ] [CONNECTION] fd=816 connection established: peer=127.0.0.1:4494
+2021-03-12 00:02:03,551 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:03:54,433 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:03:54,434 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:03:54,434 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:03:54,434 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:03:54,434 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:03:54,434 [INFO   ] [INFORMATION] fd=952 information channel established
+2021-03-12 00:03:54,434 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:03:54,669 [INFO   ] [CONNECTION] fd=940 connection established: peer=127.0.0.1:4540
+2021-03-12 00:03:54,669 [INFO   ] [EXECUTION] fd=940 'Example' is ready!
+2021-03-12 00:03:56,013 [INFO   ] [CONNECTION] fd=824 connection established: peer=127.0.0.1:4541
+2021-03-12 00:03:59,451 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:05:16,887 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:05:16,887 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:05:16,888 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:05:16,888 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:05:16,888 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:05:16,888 [INFO   ] [INFORMATION] fd=768 information channel established
+2021-03-12 00:05:16,888 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:05:17,142 [INFO   ] [CONNECTION] fd=976 connection established: peer=127.0.0.1:4562
+2021-03-12 00:05:17,142 [INFO   ] [EXECUTION] fd=976 'Example' is ready!
+2021-03-12 00:05:18,465 [INFO   ] [CONNECTION] fd=564 connection established: peer=127.0.0.1:4563
+2021-03-12 00:05:21,910 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:06:20,803 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:06:20,803 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:06:20,803 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:06:20,803 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:06:20,804 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:06:20,804 [INFO   ] [INFORMATION] fd=912 information channel established
+2021-03-12 00:06:20,804 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:06:21,062 [INFO   ] [CONNECTION] fd=960 connection established: peer=127.0.0.1:4585
+2021-03-12 00:06:21,062 [INFO   ] [EXECUTION] fd=960 'Example' is ready!
+2021-03-12 00:06:22,384 [INFO   ] [CONNECTION] fd=972 connection established: peer=127.0.0.1:4586
+2021-03-12 00:06:25,836 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:07:19,577 [INFO   ] [APP] closing event loop
+2021-03-12 00:07:50,994 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:07:50,994 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:07:50,994 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:07:50,994 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:07:50,995 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:07:50,995 [INFO   ] [INFORMATION] fd=548 information channel established
+2021-03-12 00:07:50,995 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:07:51,237 [INFO   ] [CONNECTION] fd=468 connection established: peer=127.0.0.1:4611
+2021-03-12 00:07:51,237 [INFO   ] [EXECUTION] fd=468 'Example' is ready!
+2021-03-12 00:07:52,564 [INFO   ] [CONNECTION] fd=848 connection established: peer=127.0.0.1:4612
+2021-03-12 00:07:56,004 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:12:11,355 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:12:11,355 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:12:11,355 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:12:11,355 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:12:11,355 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:12:11,355 [INFO   ] [INFORMATION] fd=516 information channel established
+2021-03-12 00:12:11,356 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:12:11,591 [INFO   ] [CONNECTION] fd=796 connection established: peer=127.0.0.1:4672
+2021-03-12 00:12:11,591 [INFO   ] [EXECUTION] fd=796 'Example' is ready!
+2021-03-12 00:12:12,945 [INFO   ] [CONNECTION] fd=600 connection established: peer=127.0.0.1:4674
+2021-03-12 00:12:16,376 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:14:47,435 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:14:47,435 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:14:47,435 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:14:47,435 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:14:47,435 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:14:47,436 [INFO   ] [INFORMATION] fd=648 information channel established
+2021-03-12 00:14:47,436 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:14:48,981 [INFO   ] [CONNECTION] fd=504 connection established: peer=127.0.0.1:4724
+2021-03-12 00:15:00,137 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:15:00,138 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:15:00,138 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:15:00,138 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:15:00,138 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:15:00,138 [INFO   ] [INFORMATION] fd=872 information channel established
+2021-03-12 00:15:00,138 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:15:00,371 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:4731
+2021-03-12 00:15:00,371 [INFO   ] [EXECUTION] fd=980 'Example' is ready!
+2021-03-12 00:15:01,691 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:4732
+2021-03-12 00:15:05,152 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:17:00,076 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:17:00,076 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:17:00,076 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:17:00,076 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:17:00,076 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:17:00,077 [INFO   ] [INFORMATION] fd=776 information channel established
+2021-03-12 00:17:00,077 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:17:00,326 [INFO   ] [CONNECTION] fd=1000 connection established: peer=127.0.0.1:4763
+2021-03-12 00:17:00,326 [INFO   ] [EXECUTION] fd=1000 'Example' is ready!
+2021-03-12 00:17:01,648 [INFO   ] [CONNECTION] fd=1012 connection established: peer=127.0.0.1:4766
+2021-03-12 00:17:05,097 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:18:06,795 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:18:06,795 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:18:06,795 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:18:06,795 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:18:06,796 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:18:06,796 [INFO   ] [INFORMATION] fd=736 information channel established
+2021-03-12 00:18:06,796 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:18:07,036 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:4782
+2021-03-12 00:18:07,036 [INFO   ] [EXECUTION] fd=980 'Example' is ready!
+2021-03-12 00:18:08,366 [INFO   ] [CONNECTION] fd=984 connection established: peer=127.0.0.1:4783
+2021-03-12 00:18:11,816 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:19:00,118 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:19:00,118 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:19:00,118 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:19:00,119 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:19:00,119 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:19:00,119 [INFO   ] [INFORMATION] fd=920 information channel established
+2021-03-12 00:19:00,119 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:19:00,364 [INFO   ] [CONNECTION] fd=720 connection established: peer=127.0.0.1:4798
+2021-03-12 00:19:00,364 [INFO   ] [EXECUTION] fd=720 'Example' is ready!
+2021-03-12 00:19:01,690 [INFO   ] [CONNECTION] fd=752 connection established: peer=127.0.0.1:4800
+2021-03-12 00:19:05,132 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:20:08,398 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:20:08,398 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:20:08,398 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:20:08,398 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:20:08,399 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:20:08,399 [INFO   ] [INFORMATION] fd=900 information channel established
+2021-03-12 00:20:08,399 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:20:08,643 [INFO   ] [CONNECTION] fd=1012 connection established: peer=127.0.0.1:4815
+2021-03-12 00:20:08,643 [INFO   ] [EXECUTION] fd=1012 'Example' is ready!
+2021-03-12 00:20:09,959 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:4816
+2021-03-12 00:20:13,418 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:21:29,736 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:21:29,737 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:21:29,737 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:21:29,737 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:21:29,737 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:21:29,737 [INFO   ] [INFORMATION] fd=920 information channel established
+2021-03-12 00:21:29,737 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:21:29,989 [INFO   ] [CONNECTION] fd=960 connection established: peer=127.0.0.1:4831
+2021-03-12 00:21:29,990 [INFO   ] [EXECUTION] fd=960 'Example' is ready!
+2021-03-12 00:21:31,318 [INFO   ] [CONNECTION] fd=972 connection established: peer=127.0.0.1:4834
+2021-03-12 00:21:34,745 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:22:26,938 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:22:26,938 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:22:26,938 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:22:26,938 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:22:26,939 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:22:26,939 [INFO   ] [INFORMATION] fd=924 information channel established
+2021-03-12 00:22:26,939 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:22:27,193 [INFO   ] [CONNECTION] fd=396 connection established: peer=127.0.0.1:4856
+2021-03-12 00:22:27,194 [INFO   ] [EXECUTION] fd=396 'Example' is ready!
+2021-03-12 00:22:28,525 [INFO   ] [CONNECTION] fd=996 connection established: peer=127.0.0.1:4859
+2021-03-12 00:22:31,956 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:23:39,370 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:23:39,370 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:23:39,370 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:23:39,370 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:23:39,371 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:23:39,371 [INFO   ] [INFORMATION] fd=936 information channel established
+2021-03-12 00:23:39,371 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:23:39,610 [INFO   ] [CONNECTION] fd=952 connection established: peer=127.0.0.1:4901
+2021-03-12 00:23:39,610 [INFO   ] [EXECUTION] fd=952 'Example' is ready!
+2021-03-12 00:23:40,960 [INFO   ] [CONNECTION] fd=976 connection established: peer=127.0.0.1:4903
+2021-03-12 00:23:44,395 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:26:10,842 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:26:10,842 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:26:10,843 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:26:10,843 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:26:10,843 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:26:10,843 [INFO   ] [INFORMATION] fd=840 information channel established
+2021-03-12 00:26:10,843 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:26:11,089 [INFO   ] [CONNECTION] fd=972 connection established: peer=127.0.0.1:4943
+2021-03-12 00:26:11,089 [INFO   ] [EXECUTION] fd=972 'Example' is ready!
+2021-03-12 00:26:12,420 [INFO   ] [CONNECTION] fd=984 connection established: peer=127.0.0.1:4945
+2021-03-12 00:26:15,848 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:29:06,347 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:29:06,348 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:29:06,348 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:29:06,348 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:29:06,348 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:29:06,349 [INFO   ] [INFORMATION] fd=772 information channel established
+2021-03-12 00:29:06,349 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:29:06,604 [INFO   ] [CONNECTION] fd=1020 connection established: peer=127.0.0.1:4986
+2021-03-12 00:29:06,604 [INFO   ] [EXECUTION] fd=1020 'Example' is ready!
+2021-03-12 00:29:07,947 [INFO   ] [CONNECTION] fd=388 connection established: peer=127.0.0.1:4988
+2021-03-12 00:29:11,360 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:31:37,377 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:31:37,377 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:31:37,377 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:31:37,377 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:31:37,378 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:31:37,378 [INFO   ] [INFORMATION] fd=1008 information channel established
+2021-03-12 00:31:37,378 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:31:37,624 [INFO   ] [CONNECTION] fd=948 connection established: peer=127.0.0.1:5013
+2021-03-12 00:31:37,625 [INFO   ] [EXECUTION] fd=948 'Example' is ready!
+2021-03-12 00:31:38,955 [INFO   ] [CONNECTION] fd=340 connection established: peer=127.0.0.1:5014
+2021-03-12 00:31:42,390 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:34:05,377 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:34:05,377 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:34:05,378 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:34:05,378 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:34:05,378 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:34:05,378 [INFO   ] [INFORMATION] fd=912 information channel established
+2021-03-12 00:34:05,378 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:34:05,619 [INFO   ] [CONNECTION] fd=968 connection established: peer=127.0.0.1:5065
+2021-03-12 00:34:05,620 [INFO   ] [EXECUTION] fd=968 'Example' is ready!
+2021-03-12 00:34:06,932 [INFO   ] [CONNECTION] fd=980 connection established: peer=127.0.0.1:5066
+2021-03-12 00:34:10,389 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:35:28,007 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:35:28,008 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:35:28,008 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:35:28,008 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:35:28,008 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:35:28,009 [INFO   ] [INFORMATION] fd=1004 information channel established
+2021-03-12 00:35:28,009 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:35:29,590 [INFO   ] [CONNECTION] fd=364 connection established: peer=127.0.0.1:5091
+2021-03-12 00:35:50,441 [INFO   ] [APP] exchange started with arguments={rto.py, run, autotrader.py}
+2021-03-12 00:35:50,442 [INFO   ] [APP] configuration={"Engine":{"MarketDataFile":"data/market_data.csv","MarketOpenDelay":5.0,"MatchEventsFile":"match_events.csv","ScoreBoardFile":"score_board.csv","Speed":1.0,"TickInterval":0.25},"Execution":{"Host":"127.0.0.1","Port":12345},"Fees":{"Maker":-0.0001,"Taker":0.0002},"Hud":{"Host":"127.0.0.1","Port":12347},"Information":{"MulticastAddress":"239.255.1.1","Interface":"0.0.0.0","Port":12346},"Instrument":{"EtfClamp":0.002,"TickSize":1.0},"Limits":{"ActiveOrderCountLimit":10,"ActiveVolumeLimit":200,"MessageFrequencyInterval":1.0,"MessageFrequencyLimit":50,"PositionLimit":1000},"Traders":{"Example":"secret","TraderOne":"secret"}}
+2021-03-12 00:35:50,442 [INFO   ] [CONTROLLER] starting the match
+2021-03-12 00:35:50,442 [INFO   ] [EXECUTION] starting execution server: host=127.0.0.1 port=12345
+2021-03-12 00:35:50,442 [INFO   ] [INFORMATION] starting information publisher: remote_address=('239.255.1.1', 12346) interface=0.0.0.0
+2021-03-12 00:35:50,442 [INFO   ] [INFORMATION] fd=440 information channel established
+2021-03-12 00:35:50,442 [INFO   ] [HEADS_UP] starting heads-up display server: host=127.0.0.1 port=12347
+2021-03-12 00:35:50,693 [INFO   ] [CONNECTION] fd=824 connection established: peer=127.0.0.1:5102
+2021-03-12 00:35:50,694 [INFO   ] [EXECUTION] fd=824 'Example' is ready!
+2021-03-12 00:35:52,027 [INFO   ] [CONNECTION] fd=1012 connection established: peer=127.0.0.1:5104
+2021-03-12 00:35:55,458 [INFO   ] [CONTROLLER] market open
+2021-03-12 00:36:24,971 [INFO   ] [APP] closing event loop
